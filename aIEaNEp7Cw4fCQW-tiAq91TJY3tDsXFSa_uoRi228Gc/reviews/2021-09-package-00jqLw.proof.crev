@@ -398,3 +398,29 @@ review:
 y4wi6C0tIYIGDtIwSkn9Ihaz7Tria610tSw-FJVCn6jJ6TD4hC-cePnpKClVc3OKt7RtD8ka49DGNevmblrpDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-23T20:17:19.940860129+03:00"
+from:
+  id-type: crev
+  id: aIEaNEp7Cw4fCQW-tiAq91TJY3tDsXFSa_uoRi228Gc
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: log
+  version: 0.4.14
+  revision: 9d4206770dd93f07cb27c3e1f41dc21c45031302
+  digest: HIJh70ghPsnDpNg9l0UXBdyqihB0XBjSdm1Aw1w8u08
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  the most popular log frontend.
+  
+  no unsafe!
+----- SIGN CREV PROOF -----
+pbdwd2Jt8qCuil6vTQth_QeIwnJYIsWpVpeza35Nx8f6FfpXcCrABoqASRPOg6jmvZmfk6M7BSM0yYS3JQs1Bg
+----- END CREV PROOF -----
+
