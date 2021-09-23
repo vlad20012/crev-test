@@ -949,3 +949,25 @@ review:
 QZT9ht-eZ5M28UrvvY63KsdG1DZ9VKFlfWcGPnuQHdBzLodtia3tG4D03Q5fx1s4rUEm--Eb-Kz39L9_XVT3BQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-23T21:41:01.820248750+03:00"
+from:
+  id-type: crev
+  id: aIEaNEp7Cw4fCQW-tiAq91TJY3tDsXFSa_uoRi228Gc
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: atty
+  version: 0.2.14
+  revision: 7b5df17888997d57c2c1c8f91da1db5691f49953
+  digest: WJaqS5xu6ORo2px2Rku1ynYYN4TuCdxeS8LR68ngyw4
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+_x9J31oYwnfj0ZYQ12RpwICxY0rICQ6pu3SLhrcmzvWBCun3WkNbJZq3d2P6YHymZDzsWdbrWGa4_EEodqc2Aw
+----- END CREV PROOF -----
+
