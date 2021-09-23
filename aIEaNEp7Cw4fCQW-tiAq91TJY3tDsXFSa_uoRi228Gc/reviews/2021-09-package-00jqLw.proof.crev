@@ -354,3 +354,25 @@ review:
 nGvAhQqw9ZZ9WUKazcQxdzsIM_txbn9w2UxTPjDP7YkddXOZhvRJgmmiHe4PSIZMlpHF-oRfLJQshGRpzwIfBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-23T20:12:37.984770818+03:00"
+from:
+  id-type: crev
+  id: aIEaNEp7Cw4fCQW-tiAq91TJY3tDsXFSa_uoRi228Gc
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: devise
+  version: 0.3.1
+  revision: 74e3deb1224ee1d3055202b1ac8c0ce2d922b879
+  digest: dUHW085QMt9yRLrDHNJ6b3jkN--_ThikqxFwQHf_Has
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+V9L3QdP-ZgnxHBkoc-EFXzas4Aep8wkjQaAgFa_XhvU0UpLf3ps1ne6bQufMlwaa6LEyjA7WjkuGzL6PlokaBQ
+----- END CREV PROOF -----
+
