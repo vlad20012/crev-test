@@ -619,3 +619,25 @@ review:
 WEabxGx0sFxA9NxyRhucDJssacocOaY1iHt8cT09mHfr8kTia_60XAx7d5mdW398UsQYhOY5Izli8fz90xuNAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-23T20:22:32.097350724+03:00"
+from:
+  id-type: crev
+  id: aIEaNEp7Cw4fCQW-tiAq91TJY3tDsXFSa_uoRi228Gc
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: bitflags
+  version: 1.3.2
+  revision: ed185cfb1c447c1b4bd6ac021c9ec3bb02c9e2f2
+  digest: ZqIPoA53x3dJ0VY5mUUrEkCGsYYrzrzU_tGfSvZufh4
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+IEtebOIv-7uAxJPf4GQjEq3ubXHBVPAZTcssxoGhOYzgdVr9MZhNwXx2R-yhWwCv69dONr4KBgeXvqrmhg8wDg
+----- END CREV PROOF -----
+
