@@ -286,3 +286,25 @@ comment: |-
 KRqj9HArVhRwCndFXxq9QuoQHlR2ZZjLBSWjrgqmsbc8lc89h1uKrzppLuQ-3rCQDurlK9nttgXLR29VOYIbBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-23T20:03:28.512556149+03:00"
+from:
+  id-type: crev
+  id: aIEaNEp7Cw4fCQW-tiAq91TJY3tDsXFSa_uoRi228Gc
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: cc
+  version: 1.0.70
+  revision: 114437e178739d4c4c195b551524bd560f54fc34
+  digest: fDXhxe8UwphpRo7yJdRzmex4ozfAhCyDfcyuh3rsN4U
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+c-XvmYFlybeBTsktWP-jbB9AxLLYPmwuqoJvAsT-850iLaJkmuQXnis5P4WopX5y2m9_-AgGn4yHc8SvLcfRAQ
+----- END CREV PROOF -----
+
