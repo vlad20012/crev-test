@@ -641,3 +641,25 @@ review:
 IEtebOIv-7uAxJPf4GQjEq3ubXHBVPAZTcssxoGhOYzgdVr9MZhNwXx2R-yhWwCv69dONr4KBgeXvqrmhg8wDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-23T21:13:26.124464427+03:00"
+from:
+  id-type: crev
+  id: aIEaNEp7Cw4fCQW-tiAq91TJY3tDsXFSa_uoRi228Gc
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: binascii
+  version: 0.1.4
+  revision: 24be6639cf3c41eb305e9859466d8ccf2f1f2351
+  digest: Sjc2eCbMGXRc7H5mYWa8_5Q63vRg2HUuWc3dbKYwzoM
+review:
+  thoroughness: high
+  understanding: none
+  rating: neutral
+----- SIGN CREV PROOF -----
+jyHmC-psy0hynXPN4_oBfZIAp7pyQyepz3lvoXDAPWG70vwlxi5PWf04VJSIlPgMxNIHQVYpC0YcrlEQ0xD6CQ
+----- END CREV PROOF -----
+
