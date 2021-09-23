@@ -481,3 +481,44 @@ comment: |-
 xfmIdN-i-mZNBjnRP-u6PQJuyeMR-Ml349AoUgec_qaxU7a_UVsA78rCn7dWjJg2mkwBOP0guSncAJDO7OmVAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-23T20:20:31.293876972+03:00"
+from:
+  id-type: crev
+  id: aIEaNEp7Cw4fCQW-tiAq91TJY3tDsXFSa_uoRi228Gc
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: autocfg
+  version: 1.0.1
+  revision: d2c60343b63239dd514622df39172f90463db886
+  digest: xjqp54rYnhV69TRCpBgSci8cIertUXvs_SLH15TDdVc
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  dfg
+  d
+  fg
+  
+  d
+  fg
+  
+  dfdfg
+  
+  df
+  gd
+  gf
+  d
+  
+  df
+  gd
+  
+  fg
+----- SIGN CREV PROOF -----
+w_Q5cXhYHXNSmI93Qjld2QpmYBbpEI1WYdfX0mgff_vNdSpBGikXB57n6eYutRWjp19bdUO6frV4BCIESwUCDQ
+----- END CREV PROOF -----
+
