@@ -37,3 +37,39 @@ comment: |-
 U2wlswopYoxN6vG_QRjYVuV0RQ-wRJNrcvZkarU2PxqTiBBXu5iN7kOgYmSsH3U6ryxdRymLwdJoMaiVUfPZAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-24T10:59:47.348517045+03:00"
+from:
+  id-type: crev
+  id: a_RL_Kfw546shceoPwFC2NhJat345q_wx2xKLl4STd8
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: async-stream-impl
+  version: 0.3.2
+  revision: b28da881695e3c66e1782f0c2c330d4e162eb7c2
+  digest: _IOcUjS4f0PjqFmFzw_BPjq0BbSIem4ziSh9omHDy6M
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+alternatives:
+  - source: "https://crates.io"
+    name: "~"
+comment: |-
+  asdasd
+  asd
+  a
+  d
+  a
+  
+  asd
+  a
+  sd
+  asdasda
+----- SIGN CREV PROOF -----
+UDVIpEfyfFdQpXWK2ymbCnK28MwkWbjYrxrbxbMLVPaRcgT6n1QlZbg2NBWbGF1QOSHq-MNoglTcGpmdltB1CQ
+----- END CREV PROOF -----
+
