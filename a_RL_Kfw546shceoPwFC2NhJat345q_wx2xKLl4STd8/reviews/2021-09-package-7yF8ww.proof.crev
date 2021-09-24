@@ -73,3 +73,41 @@ comment: |-
 UDVIpEfyfFdQpXWK2ymbCnK28MwkWbjYrxrbxbMLVPaRcgT6n1QlZbg2NBWbGF1QOSHq-MNoglTcGpmdltB1CQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-24T11:02:35.399983310+03:00"
+from:
+  id-type: crev
+  id: a_RL_Kfw546shceoPwFC2NhJat345q_wx2xKLl4STd8
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: atomic
+  version: 0.5.0
+  revision: 5803aec0f3636792058ca8493fd482fbad4ba8ed
+  digest: z9hy7hvNDWXEU9DB3tZ_bdFGvSgPegRsBl48Kj1yfX4
+review:
+  thoroughness: low
+  understanding: medium
+  rating: strong
+alternatives:
+  - source: "https://crates.io"
+    name: "~"
+comment: |-
+  asda sd
+  
+  asd
+  
+  ad
+  asd
+  a
+  sd
+  asd
+  as
+  d
+  asdasdas
+----- SIGN CREV PROOF -----
+Co99tTakrmLX-hgovx9o2xovjR5xsN8HKVVg_8GhzYllwk3tqfdkhOu_EaKI3VQHPTLIvo05WG70B2xeYIrMDQ
+----- END CREV PROOF -----
+
