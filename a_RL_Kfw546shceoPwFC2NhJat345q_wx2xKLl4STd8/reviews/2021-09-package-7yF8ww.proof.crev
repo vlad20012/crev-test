@@ -1,0 +1,39 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-24T10:58:43.886154120+03:00"
+from:
+  id-type: crev
+  id: a_RL_Kfw546shceoPwFC2NhJat345q_wx2xKLl4STd8
+  url: "https://github.com/vlad20012/crev-test"
+package:
+  source: "https://crates.io"
+  name: async-stream
+  version: 0.3.2
+  revision: b28da881695e3c66e1782f0c2c330d4e162eb7c2
+  digest: AfxH7W9KSZ0qgGvLpb2HQx9wknmC172D-eWLmFVK_nI
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+alternatives:
+  - source: "https://crates.io"
+    name: "~"
+comment: |-
+  asdasd 
+  
+  asd
+  a
+  ds
+  asd
+  asd
+  as
+  d
+  
+  
+  
+  asdasdasda
+----- SIGN CREV PROOF -----
+U2wlswopYoxN6vG_QRjYVuV0RQ-wRJNrcvZkarU2PxqTiBBXu5iN7kOgYmSsH3U6ryxdRymLwdJoMaiVUfPZAQ
+----- END CREV PROOF -----
+
